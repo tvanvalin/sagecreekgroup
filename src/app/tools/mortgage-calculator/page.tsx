@@ -116,7 +116,7 @@ export default function MortgageCalculatorPage() {
             CRE Analysis Suite
           </p>
           <h1 className="font-serif text-4xl sm:text-5xl text-white leading-tight">
-            Commercial Real Estate Calculators
+            Commercial Mortgage Calculators
           </h1>
           <p className="mt-4 text-white/60 text-lg">
             No more guessing where your deal sizes. These are the same tools we
